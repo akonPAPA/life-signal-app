@@ -1,4 +1,4 @@
-# Life Signal v0.1 — Expo Router App Shell
+Life Signal v0.1 — Expo Router App Shell
 
 This is a starter app shell for the Life Signal / Action Radar concept.
 
